@@ -1,2 +1,2 @@
 # Amazon-register
-Amazon Register page using HTML and CSS
+Developed Amazon Register page by using HTML and CSS
